@@ -33,7 +33,7 @@ h2{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh; /* Optional: for full-screen centering */
+  height: 80vh; /* Optional: for full-screen centering */
   font-family: Verdana, Geneva, Tahoma, sans-serif;
  
 
